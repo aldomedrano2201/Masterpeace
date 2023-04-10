@@ -1,18 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Masterpeace</title>
-</head>
-<body>
-	<header>
-		<h1>A Mood Music App</h1>
-	</header>
+	<h1>A Mood Music App</h1>
+	
 	<main>
 		<p>Masterpeace is an IOS application that allows users to listen to music based on their mood. The app is built using Firebase database and requires users to sign up to access it.</p>
-less
-Copy code
+
 	<h2>Features</h2>
 	<ul>
 		<li>Sign up: Users must sign up to access the app.</li>
